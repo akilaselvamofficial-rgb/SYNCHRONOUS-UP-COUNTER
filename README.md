@@ -46,7 +46,8 @@ Developed by AKILA S: RegisterNumber:25018659
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-<img width="1037" height="136" alt="image" src="https://github.com/user-attachments/assets/d85b8928-ad4f-4e57-9a7b-60cd80e08d71" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ed43b90-9e39-48cf-8100-6425656ad321" />
+
 
 
 **TRUTH TABLE**
